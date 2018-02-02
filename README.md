@@ -19,7 +19,7 @@ once in a while
 I'm always looking for ways to workaround that frustrating limitation.
 
 So while working on the cross-compiler toolchain which allows you to compile
-Swift code for the Raspberry Pi on a Mac (read about it [here](../README.md)),
+Swift code for the Raspberry Pi on a Mac (read about it [here](https://github.com/AlwaysRightInstitute/swift-mac2arm-x-compile-toolchain)),
 a brilliant idea was formed:
 
 > "The real question is can you cross compile to macOS from your Raspberry Pi
