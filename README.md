@@ -290,3 +290,26 @@ We don't like people who are wrong.
 
 There is the [swift-arm](https://slackpass.io/swift-arm) Slack channel
 if you have questions about running Swift on ARM/Raspberry Pi.
+
+<table width="100%" border="0">
+    <tr style="width: 100%;">
+      <td align="center" width="33%">
+        <a href="http://apacheexpress.io"
+          ><img src="http://zeezide.com/img/ApexIcon128.png" width="64" height="64" /></a>
+	<br />
+	ApacheExpress
+      </td>
+      <td align="center" width="33%">
+        <a href="http://mod-swift.org"
+          ><img src="http://zeezide.com/img/mod_swift-128x128.png" width="64" height="64" /></a>
+	<br />
+	mod_swift
+      </td>
+      <td align="center" width="33%">
+        <a href="http://zeeql.io"
+          ><img src="http://zeezide.com/img/ZeeQLIconQL128.png" width="64" height="64" /></a>
+	<br />
+	ZeeQL
+      </td>
+    </tr>
+</table>
