@@ -1,5 +1,5 @@
 <h2>RasPi -> macOS  Cross Compilation Toolchain
-  <img src="http://zeezide.com/img/rpi-swift.svg?2"
+  <img src="https://zeezide.com/img/rpi-swift.svg?3"
        align="right" width="180" height="180" />
 </h2>
 
@@ -7,7 +7,7 @@
 ![tuxOS](https://img.shields.io/badge/os-Xenial-green.svg?style=flat)
 ![ARM](https://img.shields.io/badge/cpu-ARM-red.svg?style=flat)
 
-So, I got that new late-2016 MacBook Pro (yes, the touchbar is aweful,
+So, I got that new late-2016 MacBook Pro (yes, the touchbar is awful,
 except for the 
 [Lemmings](https://github.com/erikolsson/Touch-Bar-Lemmings),
 those are cool).
